@@ -1,0 +1,7 @@
+Code used to generate the results presented in 
+Hervas-Raluy, S., J. M. Garcia-Aznar, and M. J. Gomez-Benito. "Modelling actin polymerization: the effect on confined cell migration." Biomechanics and modeling in mechanobiology 18 (2019): 1177-1187.
+
+https://doi.org/10.1007/s10237-019-01136-2
+
+Abstract:
+The aim of this work is to model cell motility under conditions of mechanical confinement. This cell migration mode may occur in extravasation of tumour and neutrophil-like cells. Cell migration is the result of the complex action of different forces exerted by the interplay between myosin contractility forces and actin processes. Here, we propose and implement a finite element model of the confined migration of a single cell. In this model, we consider the effects of actin and myosin in cell motility. Both filament and globular actin are modelled. We model the cell considering cytoplasm and nucleus with different mechanical properties. The migration speed in the simulation is around 0.1 μm/min, which is in agreement with existing literature. From our simulation, we observe that the nucleus size has an important role in cell migration inside the channel. In the simulation the cell moves further when the nucleus is smaller. However, this speed is less sensitive to nucleus stiffness. The results show that the cell displacement is lower when the nucleus is stiffer. The degree of adhesion between the channel walls and the cell is also very important in confined migration. We observe an increment of cell velocity when the friction coefficient is higher.
